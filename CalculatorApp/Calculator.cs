@@ -10,7 +10,7 @@ namespace CalculatorApp
     {
         public int Add(int firstNumber, int secondNumber)
         {
-            return firstNumber + secondNumber;
+            return firstNumber - secondNumber;
         }
 
         public int Subtract(int firstNumber, int secondNumber)
